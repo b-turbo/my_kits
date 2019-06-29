@@ -4,3 +4,4 @@ var kits={};
 kits.radomInt=function(n,m){
 return Math.floor(Math.random()*(m-n+1)+n);
 }
+// 加行备注再上传更新一次
